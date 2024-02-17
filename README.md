@@ -14,7 +14,7 @@ This ReadMe file also includes the full list of survey questions.
 
 A.3. Structured Metadata for IID Data: This is structured metadata file for the data itself, formatted in Dublin Core. 
 
-A.4. While not included in the original data files, the data curator decided to include a .txt document with just the survey questions for ease of access. 
+A.4. IID Survey Questions and Variables.txt: While not included in the original data files, the data curator decided to include a .txt document with just the survey questions and variables for ease of access. 
 
 B. General Repository files
 
