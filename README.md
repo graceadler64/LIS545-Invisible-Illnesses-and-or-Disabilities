@@ -2,7 +2,7 @@
 
 This document describes the files in this repository. This is a repository that compiles and curates the files of the Hidden Barriers: The Experience of Academic Librarians and Archivists with Invisible Illnesses and/or Disabilities Dataset in order to practice data curation in a graduate setting. This is performed for education purposes only. No ownership, distribution, or contribution to the original data set is claimed by the repository creator.
 
-A. Data set files:
+A. Data set files
 
 A.1. IID Data.csv: This is the raw data file. 
 
@@ -10,7 +10,7 @@ A.2. IID Readme.txt: This is the original ReadMe file from the dataset as hosted
 
 A.3. Structured Metadata for IID Data: This is structured metadata file for the data itself, formatted in Dublin Core. 
 
-B. General Repository files: 
+B. General Repository files
 
 B.1. Structured Metadata for GitHub Repository: This is a structured metadata file for this repository on GitHub, formatted in Dublin Core. 
 
@@ -18,10 +18,10 @@ B.2. README.md: This file (which you are currently reading) is the README.md fil
 
 C. Final Report files
 
-C.1. 
+C.1. Term Project: Final Report.docx: This .docx file compiles the information from multiple scholarly documents into one full and complete report. The aforementioned documents are listed below. 
 
 C.2. Term Project_ Data and Metadata Profile.docx: This .docx file will be included both inside of the Final Report. This document describes and analyzes the data and metadata as encountered in the original repository of FigShare. 
 
-C.3. Repository Profile: This .docx file will be included both inside of the Final Report. It is a description and analysis of the repository ICPSR. 
+C.3. Term Project_ Repository Profile.docx: This .docx file will be included both inside of the Final Report. It is a description and analysis of the repository ICPSR. 
 
 C.4. Final Considerations: This information will be included in the final report file. 
